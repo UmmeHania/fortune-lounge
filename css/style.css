@@ -18,6 +18,9 @@ background-color: #0d6efd;
 .footer-paragraph{
     font-size: 15px;
 }
+.toast-position{
+    left: 80%;
+}
 @media only screen and (max-width: 767px){
     .slider{
         margin-top: 40px;
