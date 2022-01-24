@@ -18,9 +18,10 @@ background-color: #0d6efd;
 .footer-paragraph{
     font-size: 15px;
 }
-.toast-position{
-    left: 80%;
+.fc{
+    width: 50%;
 }
+
 @media only screen and (max-width: 767px){
     .slider{
         margin-top: 40px;
@@ -33,5 +34,8 @@ background-color: #0d6efd;
         .navtitle{
             font-size: 15px;
         }
+        .carousel-responsive{
+            display: none;
+        }
         
-}
+        }
