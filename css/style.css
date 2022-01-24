@@ -2,10 +2,6 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.gradient{
-    background-color: rgba(214, 61, 61, 0.5);
-    background-blend-mode: overlay;
-}
 .best-card{
     height: 25rem;
 }
@@ -34,13 +30,5 @@ background-color: #0d6efd;
         .navtitle{
             font-size: 15px;
         }
-        /* .slider{
-            margin-top: 500px;
-        } */
-        .slider{
-            height: 500px;
-        }
-        .carousel-item img{
-            height: 100%;
-        }
+        
 }
